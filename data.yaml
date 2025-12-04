@@ -1,0 +1,15 @@
+path: /content/data
+train: images/train
+val: images/val
+nc: 10
+names:
+- Bernard Arnault
+- Bill Gates
+- Elon Musk
+- Jeff Bezos
+- Larry Ellison
+- Larry Page
+- Mark Zuckerberg
+- Sergey Brin
+- Steve Ballmer
+- Warren Buffet
