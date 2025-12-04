@@ -1,4 +1,4 @@
-# Object-detection-model
+# PyTorch YOLO Object Detection Model
 
 YOLO Object Detection – PyTorch Training on Custom Dataset
 
